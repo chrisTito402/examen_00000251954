@@ -1,0 +1,13 @@
+modelos\ModeloInscripcion.class
+vistas\IVistaInscripcion.class
+observer\IObservador.class
+controladores\ControladorInscripcion.class
+modelos\Inscripcion.class
+observer\IObservable.class
+modelos\Alumno.class
+Main.class
+modelos\Curso.class
+vistas\VistaInscripcionn.class
+controladores\ControladorInscripcion$1.class
+modelos\FichaPago.class
+observer\Evento.class
